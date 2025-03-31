@@ -1,0 +1,37 @@
+Requisitos Funcionais 
+
+RF1: Cadastro e login de usuários: Permitir cadastro de clientes onde eles possam usar telefone, email, endereço, recuperação de senha e um carrinho 
+
+RF2: Catalogo de produto: Exibição da capa, filtro de tipos 
+
+RF3 : Carrinho de compras. Tirar e colocar produto em estoque 
+
+RF4: Pagamento e devolução de dinheiro. 
+
+RF5: Suporte ao cliente: Resolver problemas de cadastro, vendas, etc. 
+
+ 
+
+Requisitos não funcionais 
+
+RNF1: Desempenho do site: Obter respostas a cada click em segundos. 
+
+RNF2: Segurança do site e dados do consumidor 
+
+RNF3: Modelo do site ou app para que fique de fácil acesso para o consumidor 
+
+RNF4: Compatibilidade WEB e APP 
+
+ 
+
+Regras de negocio 
+
+ 
+
+RN: Preços e promoções 
+
+RN2: Pagamentos 
+
+RN3: Entrega e devolução 
+
+RN4: Fidelidade: Quanto mais o consumidor compra, mais pontos ele ganha 
