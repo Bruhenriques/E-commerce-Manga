@@ -2,7 +2,7 @@ Requisitos Funcionais
 
 RF1: Cadastro e login de usuários: Permitir cadastro de clientes onde eles possam usar telefone, email, endereço, recuperação de senha e um carrinho 
 
-RF1: Sistema de pesquisa de produtos
+RF1: Sistema de pesquisa de produtos: Site deve exibir detalhes do mangá (capa, descrição, preço, autor, editora e avaliação)
 
 RF1: Gerenciamento do inventario de produtos da loja: Tirar, colocar produto em estoque, e poder gerenciar os preços 
 
@@ -10,11 +10,17 @@ RF2: Catalogo de produto: Exibição da capa, filtro de tipos
 
 RF3 : Poder comprar produtos
 
-RF3 : Carrinho de compras. para o usuario poder por itens de compra 
+RF3 : Carrinho de compras: Adicionar e remover itens do carrinho, exibir valor da compra.
 
 RF4: Pagamento e devolução de dinheiro. 
 
 RF5: Suporte ao cliente: Resolver problemas de cadastro, vendas, etc. 
+
+RF6: Usuário deve visualizar o status do pedido: Código de rastreio, enviado e entregue
+
+RF7: Avaliação do usuário: Usuário pode comentar e avaliar o produto
+
+RF8: Recomendação: Site deve usar o histórico do comprador para sugerir mangás populares e lançamentos
 
 Requisitos não funcionais 
 
