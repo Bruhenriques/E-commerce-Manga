@@ -10,25 +10,27 @@ RF3 : Poder comprar produtos
 
 RF3 : Carrinho de compras: Adicionar e remover itens do carrinho, exibir valor da compra.
 
-RF4: Pagamento e devolução de dinheiro. 
+RF4: Pagamento e checkout: Usuário deve escolher forma de pagamento (cartão, boleto e pix), sistema deve validar os dados e o usuário receber um email de confirmação 
 
 RF5: Suporte ao cliente: Resolver problemas de cadastro, vendas, etc. 
 
 RF6: Usuário deve visualizar o status do pedido: Código de rastreio, enviado e entregue
 
-RF7: Avaliação do usuário: Usuário pode comentar e avaliar o produto
+RF7: Avaliação do usuário: Usuário pode comentar e avaliar o produto.
 
-RF8: Recomendação: Site deve usar o histórico do comprador para sugerir mangás populares e lançamentos
+RF8: Recomendação: Site deve usar o histórico do comprador para sugerir mangás populares e lançamentos.
 
-Requisitos não funcionais 
 
-RNF1: Desempenho do site: Obter respostas a cada click em segundos. 
+//Requisitos não funcionais 
 
-RNF2: Segurança do site e dados do consumidor 
 
-RNF3: Modelo do site ou app para que fique de fácil acesso para o consumidor 
+RNF1: Desempenho do site: Obter respostas a cada click em segundos e suportar pelo menos 1000 acessos simultaneos sem perda de desempenho.
 
-RNF4: Compatibilidade WEB e APP 
+RNF2: Segurança do site e dados do consumidor: As senhas do usuário devem ser armazenadas e criptografadas
+
+RNF3: Modelo do site/app: Fácil acesso para o consumidor, deve ser intuitiva e fácil de navegar, seguindo padrões de acessibilidade para PCD.
+
+RNF4: Compatibilidade WEB e APP: O site/APP deve estar disponível 99,0% do tempo e ter um plano de recuperação para falhas.
 
  
 
