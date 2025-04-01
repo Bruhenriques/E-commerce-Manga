@@ -32,7 +32,9 @@ RNF3: Modelo do site/app: Fácil acesso para o consumidor, deve ser intuitiva e 
 
 RNF4: Compatibilidade WEB e APP: O site/APP deve estar disponível 99,0% do tempo e ter um plano de recuperação para falhas.
 
-RNF5: O site deve ter uma interface simples e entuitiva para novos usuariso
+RNF5: O site deve ter uma interface simples e entuitiva para novos usuario
+
+RNF6: Manutenção: Atualizações do site para melhorias de de experiencia e segurança.
  
 
 Regras de negocio 
