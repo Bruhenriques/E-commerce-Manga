@@ -1,12 +1,12 @@
 Requisitos Funcionais 
 
-RF1: Cadastro e login de usuários: Permitir cadastro de clientes onde eles possam usar telefone, email, endereço, recuperação de senha e um carrinho 
+RF1: Cadastro e login de usuários: Permitir cadastro de clientes onde eles possam usar telefone, email, endereço, recuperação de senha e um carrinho.
 
 RF1: Sistema de pesquisa de produtos: Site deve exibir detalhes do mangá (capa, descrição, preço, autor, editora e avaliação)
 
 RF1: Gerenciamento do inventario de produtos da loja: Tirar, colocar produto em estoque, e poder gerenciar os preços 
 
-RF3 : Poder comprar produtos
+RF3 : Poder comprar produtos: O usuário pode adicionar as compras ao seu carrinho.
 
 RF3 : Carrinho de compras: Adicionar e remover itens do carrinho, exibir valor da compra.
 
@@ -38,10 +38,14 @@ Regras de negocio
 
  
 
-RN: Preços e promoções 
+RN: Gestão de produtos: Somente administradores podem cadastras, editar ou remover mangás do catalogo e produtos esgotados devem ser sinalizados.
 
-RN2: Pagamentos 
+RN2: Alterações: O sistema deve permitir alterações de precos a qualquer momento
 
-RN3: Entrega e devolução 
+RN4: Carrinho de compras: O carrinho armazena os produtos por até 30 minutos. Usuário só pode add 10 itens ao carrinho
 
-RN4: Fidelidade: Quanto mais o consumidor compra, mais pontos ele ganha 
+RN5: Transações: Parcelamentos podem incluir juros, pedido só será processado após confirmação do pagamento, reembolsos só podem ser permitidos em casos de defeito ou erro do pedido.
+
+RN6: Frete: Prazo de entrega conforme endereço do cliente, frete pode ser gratuito em compras acima de 100 reais e caso o pedido seja devolvido, ele arcará com o frete
+
+RN7: Fidelidade e promoções: Usuários acumulam pontos a cada compra e podem ser trocados por desconto; cupons podem ter restrições; esses pontos podem ter validade de 12 meses sem uso.
