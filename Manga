@@ -6,8 +6,6 @@ RF1: Sistema de pesquisa de produtos: Site deve exibir detalhes do mangá (capa,
 
 RF1: Gerenciamento do inventario de produtos da loja: Tirar, colocar produto em estoque, e poder gerenciar os preços 
 
-RF2: Catalogo de produto: Exibição da capa, filtro de tipos 
-
 RF3 : Poder comprar produtos
 
 RF3 : Carrinho de compras: Adicionar e remover itens do carrinho, exibir valor da compra.
