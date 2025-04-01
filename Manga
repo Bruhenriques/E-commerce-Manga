@@ -2,15 +2,19 @@ Requisitos Funcionais
 
 RF1: Cadastro e login de usuários: Permitir cadastro de clientes onde eles possam usar telefone, email, endereço, recuperação de senha e um carrinho 
 
+RF1: Sistema de pesquisa de produtos
+
+RF1: Gerenciamento do inventario de produtos da loja: Tirar, colocar produto em estoque, e poder gerenciar os preços 
+
 RF2: Catalogo de produto: Exibição da capa, filtro de tipos 
 
-RF3 : Carrinho de compras. Tirar e colocar produto em estoque 
+RF3 : Poder comprar produtos
+
+RF3 : Carrinho de compras. para o usuario poder por itens de compra 
 
 RF4: Pagamento e devolução de dinheiro. 
 
 RF5: Suporte ao cliente: Resolver problemas de cadastro, vendas, etc. 
-
- 
 
 Requisitos não funcionais 
 
